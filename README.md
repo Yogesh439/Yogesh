@@ -1,5 +1,4 @@
 <img align="center" width="1000"  src="https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif"/>
-<br/>
 <h1 align="center">Hi 👋, I'm Yogesh Sharma</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 <img align="right" alt="Coding" width="400"  src="https://media1.tenor.com/m/Vqi0JRefMbEAAAAC/scorpio-sign.gif"/>
